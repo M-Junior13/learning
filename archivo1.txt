@@ -1,7 +1,7 @@
 Tenemos un sobres de papel
 
-Este el cambio realizado desde git hub
+Este el cambio rasdasdasdo desde git hub
 
 Tenemos un sobres de papel
-  No hay conflicto acá
+ acá si tenemos conflictos, asjndasndjasd
 modificado con vsc
