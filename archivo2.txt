@@ -1,7 +1,7 @@
 Tenemos dos sobres de papel
 Tenemos dos sobres de papel
 
-este cambio lo realizamos usando la rama probando
+este cambio lo realizamos usando la rama cambiando para tener comflicto con master
 
 Tenemos dos sobres de papel
 Tenemos dos sobres de papel
